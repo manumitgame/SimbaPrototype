@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Eco Dash-0.1";
 const contentToCache = [
     "Build/ThirdBuild.loader.js",
-    "Build/ThirdBuild.framework.js.gz",
-    "Build/ThirdBuild.data.gz",
-    "Build/ThirdBuild.wasm.gz",
+    "Build/ThirdBuild.framework.js",
+    "Build/ThirdBuild.data",
+    "Build/ThirdBuild.wasm",
     "TemplateData/style.css"
 
 ];
